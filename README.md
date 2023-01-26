@@ -1,4 +1,4 @@
-# Login / signup application in React, Node.js and MongoDB
+# Log in / sign up application in React, Node.js and MongoDB
 
 To install the required packages:
 
